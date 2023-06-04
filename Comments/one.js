@@ -4,15 +4,15 @@
 /*
      multi line comments
 
-      (notexecuable)
+        (notexecuable)
 
 */     
 
-console.log("hello,world")
+console.log("hello,World")
 
 var a = 12;
 var b = 21;
 
-console.log(a + b)
+console.log(a + b);
 
 
