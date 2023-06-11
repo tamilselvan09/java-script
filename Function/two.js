@@ -1,7 +1,7 @@
 //simple function
 
 
-function wish () {
+function wish () {    //() -> without perameter
     console.log("GM")
     console.log("GA")
     console.log("GN")
