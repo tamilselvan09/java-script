@@ -1,4 +1,4 @@
-Length ---> length of the array
+Length(property) ---> length of the array
 
 Push ----> its add the last value .(add)
 
