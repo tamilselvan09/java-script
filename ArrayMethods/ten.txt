@@ -1,0 +1,10 @@
+Length ---> length of the array
+
+Push ----> its add the last value .(add)
+
+Pop ---> its removes the last value.(remove)
+
+unshift ---> its add begining of array value.(add)
+
+shift ---->  its remove first value (remove)
+ 
