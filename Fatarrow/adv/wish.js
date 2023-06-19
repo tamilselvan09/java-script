@@ -1,4 +1,4 @@
-//Function Overridingconflits are resolve the fat arroe function
+//Function Overriding conflits are resolve the fat arroe function
 
 function wish () {
     console.log("GM")
