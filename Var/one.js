@@ -10,3 +10,4 @@ console.log(emp_name);
 console.log(if1);
 console.log(salary);
 
+
