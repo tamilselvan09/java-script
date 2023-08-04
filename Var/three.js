@@ -1,0 +1,5 @@
+//var Num1 = [1,2,3].push(7)
+var Num2 = [1,2,3].pop()
+var Num3 = [1,2,3].shift()
+let Num4 = [1,2,3].unshift(0)
+console.log(Num4)
